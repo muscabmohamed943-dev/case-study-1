@@ -1,0 +1,29 @@
+h1{
+    background-color: rgb(255, 0, 0);
+}
+body{
+    background-color: #e2e22b;
+}
+h2{
+    background-color: #591cff;
+    color: aqua;
+}
+
+
+ul{
+    list-style-type: square;
+     color: lch(55.78% 87.71 352.2);
+}
+li{
+   
+}
+ol{
+    background-color: rgb(35, 38, 223);
+    color: #e2e22b;
+}
+p{
+    background-color: aqua;
+}
+a{
+background-color: azure;
+}
